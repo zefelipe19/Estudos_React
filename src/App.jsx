@@ -1,6 +1,6 @@
 import './App.css'
 
-import ToDo from './components/TodoList'
+import ToDo from './components/ToDoList/TodoList'
 
 function App() {
   

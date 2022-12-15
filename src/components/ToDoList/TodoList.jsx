@@ -18,7 +18,7 @@ export default props => {
 
     return(
         <div>
-            <h3>ToDo List</h3>
+            <h3>React ToDo List</h3>
             <input type="text" name="todo" id="todo" placeholder="ToDo" onChange={e => setNewTodo(e.target.value)}/>
             <input type="button" value="Add" id="addTodo" onClick={handleTodo}/>
             
