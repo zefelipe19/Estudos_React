@@ -5,5 +5,5 @@
 <strong>Os mini app são:</strong>
 <dl>
     <dt>ToDo List</dt>
-    <dd>- Uma simples lista de afaseres.</dd>
+    <dd>- Uma simples lista de afazeres.</dd>
 </dl>
